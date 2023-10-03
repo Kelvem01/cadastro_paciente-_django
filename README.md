@@ -1,5 +1,3 @@
-Claro! Aqui está um exemplo de um arquivo README em formato Markdown para um aplicativo chamado "Clínica de Cadastro" desenvolvido em Python com o framework Djongo, e utilizando CSS e HTML:
-
 # Clínica
 
 
