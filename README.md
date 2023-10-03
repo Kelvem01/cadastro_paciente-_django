@@ -4,7 +4,10 @@ Claro! Aqui está um exemplo de um arquivo README em formato Markdown para um ap
 
 
 ## Descrição
-O aplicativo "Clínica de Cadastro" é uma aplicação web desenvolvida em Python com o framework Djongo, que permite às clínicas médicas gerenciar o cadastro de pacientes de forma eficiente. A aplicação inclui recursos para adicionar, editar, visualizar e excluir informações de pacientes, tornando o processo de gestão de registros médicos mais simples e organizado.
+O aplicativo "Clínica de Cadastro" é uma aplicação web desenvolvida em Python com o framework Django, para desenvolver este projeto primeiro criamos um ambiente virtual com o camando 'python -m venv minha env', 
+para ativar digitamos o comando statics/activate , em seguid instalamos o djangocom o comando 'pip install django', depois startamos o projeto com o 'django-admin startproject meuprojeto' mudamos de diretorio com o comando cd meuprojeto,
+então criamos uma aplicação com o comando  python manage.py startapp meuapp, entaão criamos os modelos com o comando python manage.py makemigrations seguido do python manage.py migrate, depois configuramos as urls criei templates , em seguida implementamos as views e templates , para iniciar o servidor de desenvolvimento digitamos python manage.py runserver, então podemos visualizar nossa aplicação
+. A aplicação inclui recursos para adicionar, editar, visualizar e excluir .
 
 ## Funcionalidades
 
